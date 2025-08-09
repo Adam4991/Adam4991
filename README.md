@@ -1,4 +1,4 @@
-# 🧠 Adam S — Software Developer & Engineer
+# 🧠 Adam S — Engineering the Unknown
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Cloud+Explorer+%7C+Java+Engineer;SQL+Solver+%7C+UI+Refiner+%7C+Always+Curious" alt="Typing SVG" />
 
@@ -73,4 +73,7 @@ A full-stack React-based task management system with separate frontend and backe
 
 ## 📬 Connect
 
-If you're working on web apps, cloud platforms, or logic-driven development challenges, I’d love to collaborate.
+I'm always open to collaboration, learning, and solving meaningful tech challenges.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adam4991)
+- 📧 Mail: **adamselvan@outlook.com**
