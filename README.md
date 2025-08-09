@@ -1,35 +1,36 @@
-# 🧠 Adam S — Engineering the Unusual
+# 🧠 Adam S — Software Developer & Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Systems+Thinker+%7C+Cloud+Explorer+%7C+Web+Debugger;SQL+Solver+%7C+Java+Refiner+%7C+Always+Curious" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Cloud+Explorer+%7C+Java+Engineer;SQL+Solver+%7C+UI+Refiner+%7C+Always+Curious" alt="Typing SVG" />
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm Adam—a systems-level thinker and builder focused on making web and cloud systems more reliable, accessible, and adaptable. I specialize in debugging complex web interactions, refining backend logic, and architecting cloud solutions that work under real-world constraints.
+I'm Adam, a software developer and engineer who thrives on solving edge-case problems and building systems that work under real-world constraints. I specialize in:
 
-- 🌐 **Web Development**: HTML, JSP, React, DevTools, accessibility, and usability-focused refactoring.
-- ☁️ **Cloud Architecture**: Azure resource groups, RBAC roles, and service orchestration.
-- 💻 **Programming**: Java, SQL, logic puzzles, and debugging under strict I/O constraints.
-- 🧠 **Systems Thinking**: I correlate symptoms across layers and adapt solutions to edge cases and limitations.
+- 🌐 Web development using **HTML**, **JSP**, **React**, **PHP**, and **JavaScript**
+- ☁️ Cloud architecture with **Azure**, including **RBAC roles**, **resource groups**, and **service orchestration**
+- 💻 Programming in **Java** and **SQL**, with a focus on logic puzzles and constraint-based debugging
+- 🧠 Adapting systems for usability, accessibility, and non-standard workflows
+
+I enjoy refining code, improving user experience, and making technical systems more robust and intuitive.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-| Domain              | Technologies & Expertise                                                                 |
-|---------------------|-------------------------------------------------------------------------------------------|
-| 🌐 Web Development   | HTML, JSP, React, DevTools, form validation, accessibility, client-server debugging       |
-| ☁️ Cloud Services    | Azure Resource Groups, RBAC, Cognitive Services, service orchestration                    |
-| 💻 Programming       | Java, SQL, waveform array debugging, logic puzzles                                        |
-| 🧠 Diagnostics       | Cross-layer symptom tracking, pragmatic adaptation to quiz/exam constraints               |
-| 📦 Usability Focus   | Manual input workflows, non-standard user scenarios, system reliability engineering       |
+| Category            | Tools & Expertise                                                                 |
+|---------------------|------------------------------------------------------------------------------------|
+| 💻 Programming       | Java, SQL, logic puzzles, waveform array debugging                                |
+| 🌐 Web Development   | HTML, JSP, React, PHP, JavaScript, DevTools, form validation, accessibility        |
+| ☁️ Cloud Services    | Azure Resource Groups, RBAC, Cognitive Services, service orchestration            |
+| 🧠 Engineering Focus | Constraint-based problem solving, UI/UX adaptation, quiz/exam scenario optimization|
 
 ---
 
 ## 📊 GitHub Statistics
 
-📅 Joined GitHub on **November 29, 2023** — building a portfolio of code, architecture, and curiosity.
+📅 Joined GitHub on **November 29, 2023** — actively building and refining software projects.
 
 <div align="center">
 
@@ -44,32 +45,32 @@ Hi, I'm Adam—a systems-level thinker and builder focused on making web and clo
 ## 🚀 Featured Project
 
 ### 🗂️ [Task Management Website](https://github.com/Adam4991/task-management-website)
-A full-stack web application built with React and structured for scalability. Includes:
+A full-stack React-based task management system with separate frontend and backend folders.
 
-- 📦 Separate frontend and backend architecture
-- ⚙️ Scripts for build, test, and deployment
-- 🌐 Optimized for performance and usability
+**Highlights:**
+- 🧩 Modular architecture for scalability
+- ⚙️ Build/test scripts included via Create React App
+- 🌐 Optimized for usability and performance
 - 🧪 Ideal for small to mid-scale deployments
 
 ---
 
 ## 🎯 Current Focus
 
-- Preparing for **Learnathon 2025** with emphasis on cloud services, web architecture, and diagnostic reasoning.
-- Expanding proficiency in **Azure orchestration**, including service dependencies and RBAC role design.
-- Refining code for **edge-case logic puzzles** and constraint-heavy programming challenges.
-- Improving **accessibility and usability** in web systems for non-standard user scenarios.
+- Preparing for **Learnathon 2025** with emphasis on cloud services, web architecture, and diagnostic reasoning  
+- Expanding proficiency in **Azure orchestration**, including service dependencies and RBAC role design  
+- Refining code for **edge-case logic puzzles** and constraint-heavy programming challenges  
+- Improving **accessibility and usability** in web systems for non-standard user scenarios  
 
 ---
 
 ## ✨ Philosophy
 
 > “Precision under constraint is the true test of clarity.”  
-> I believe in building systems that adapt to real-world limitations, not just ideal conditions.
+> I believe in building software that adapts to real-world limitations—not just ideal conditions.
 
 ---
 
 ## 📬 Connect
 
-If you're working on web systems, cloud architecture, or logic-driven code challenges, I’d love to collaborate.
-
+If you're working on web apps, cloud platforms, or logic-driven development challenges, I’d love to collaborate.
