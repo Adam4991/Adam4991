@@ -1,4 +1,4 @@
-# 🧠 Adam S — Engineering the Unknown
+# 🧠 Adam S — Engineering the Future
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+Cloud+Explorer+%7C+Java+Engineer;SQL+Solver+%7C+UI+Refiner+%7C+Always+Curious" alt="Typing SVG" />
 
