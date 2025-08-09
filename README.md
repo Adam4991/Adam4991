@@ -1,67 +1,72 @@
-<div align="center">
-
 # 🧠 Adam S — Engineering the Unusual
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Systems+Thinker+%7C+Cloud+Explorer+%7C+AI+Tinkerer;Legacy+Hardware+Revivalist+%7C+Web+Debugger+%7C+Always+Curious" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Systems+Thinker+%7C+Cloud+Explorer+%7C+Web+Debugger;SQL+Solver+%7C+Java+Refiner+%7C+Always+Curious" alt="Typing SVG" />
 
 ---
 
-## 🔍 About Me
+## 👋 About Me
 
-I’m Adam—a developer who thrives on solving problems that most people don’t even know exist. From reviving aging hardware to building cloud-connected applications, I specialize in making systems work under constraints.
+Hi, I'm Adam—a systems-level thinker with a passion for solving edge-case software problems, refining code under constraints, and making technical systems more robust and user-friendly. I specialize in web architecture, cloud services, and logic-driven programming.
 
-My journey spans:
-- 🧠 Programming in Java, C, and Python
-- 🗄️ Managing relational and NoSQL databases (MySQL, MongoDB)
-- 🧩 Building responsive UIs with React
-- 🐧 Navigating Linux environments and shell scripting
-- 🖥️ Working with virtual machines and network configurations
-- 🔐 Certified in MongoDB, AI, and Networking by Microsoft, Cisco, and Google
-- 🏆 Finalist in Smart India Hackathon | IEEE Xtreme 18.0 participant
-
-I believe great engineering is about clarity, resilience, and a touch of creativity. Whether debugging a flaky SATA controller or designing a scalable backend, I bring precision and curiosity to every challenge.
+- 🌐 **Web Troubleshooting**: Skilled in HTML, JSP, DevTools, and accessibility-focused refactoring.
+- ☁️ **Cloud Architecture**: Proficient in Azure resource groups, RBAC roles, and service orchestration.
+- 💻 **Programming**: Experienced in Java, SQL, and debugging logic-heavy code under strict I/O constraints.
+- 🧠 **Systems Thinking**: I correlate symptoms across subsystems and adapt solutions to real-world limitations.
 
 ---
 
-## 🧰 Skills & Technologies
+## 🛠️ Technical Skills
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-
-</div>
+| Domain              | Technologies & Expertise                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------|
+| 🌐 Web Development   | HTML, JSP, DevTools, form validation, accessibility, server-client debugging              |
+| ☁️ Cloud Services    | Azure Resource Groups, RBAC, Cognitive Services, service orchestration                    |
+| 💻 Programming       | Java, SQL, logic puzzles, waveform array debugging                                        |
+| 🧠 Diagnostics       | Cross-layer symptom tracking, pragmatic adaptation to quiz/exam constraints               |
+| 📦 Usability Focus   | Manual input workflows, non-standard user scenarios, system reliability engineering       |
 
 ---
 
 ## 📊 GitHub Statistics
 
+📅 Joined GitHub on **November 29, 2023** — building a portfolio of code, architecture, and curiosity.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adam4991&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam4991&layout=compact&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam4991&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🔍 Recent Work & Projects
 
-<div align="center">
+- 🌐 Refactored HTML/JSP forms to support manual roll number entry and bypass barcode scanner dependency.
+- 🧠 Debugged Java waveform array logic to meet strict input/output constraints in quiz scenarios.
+- ☁️ Designed Azure architecture under Learnathon constraints, optimizing RBAC and service orchestration.
+- 🧪 Investigated ambiguous web errors (404s, form failures) and resolved client-server mismatches.
+- 📚 Studied Azure Cognitive Services and adapted answers to fit constrained quiz formats.
 
-<a href="mailto:adamselvan@outlook.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://www.linkedin.com/in/adam-s-230593292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-</div>
+## 🎯 Current Focus
+
+- Preparing for **Learnathon 2025** with emphasis on cloud services, web architecture, and diagnostic reasoning.
+- Expanding proficiency in **Azure orchestration**, including service dependencies and RBAC role design.
+- Refining code for **edge-case logic puzzles** and constraint-heavy programming challenges.
+- Improving **accessibility and usability** in web systems for non-standard user scenarios.
+
+---
+
+## ✨ Philosophy
+
+> “Precision under constraint is the true test of clarity.”  
+> I believe in building systems that adapt to real-world limitations, not just ideal conditions.
+
+---
+
+## 📬 Connect
+
+If you're working on web systems, cloud architecture, or logic-driven code challenges, I’d love to collaborate.
