@@ -75,5 +75,11 @@ A full-stack React-based task management system with separate frontend and backe
 
 I'm always open to collaboration, learning, and solving meaningful tech challenges.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adam4991)
-- 📧 Mail: **adamselvan@outlook.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam4991" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam4991-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:adamselvan@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
+</p>
