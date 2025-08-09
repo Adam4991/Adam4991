@@ -47,14 +47,15 @@ I enjoy refining code, improving user experience, and making technical systems m
 
 ## 🚀 Featured Project
 
-### 🗂️ [Task Management Website](https://github.com/Adam4991/task-management-website)
-A full-stack React-based task management system with separate frontend and backend folders.
+### 🩸 [Anemia Severity Predictor](https://github.com/Adam4991/anemia-severity-predictor-based-on-cbc)
+A machine learning-based system that predicts anemia severity using CBC (Complete Blood Count) data.
 
 **Highlights:**
-- 🧩 Modular architecture for scalability
-- ⚙️ Build/test scripts included via Create React App
-- 🌐 Optimized for usability and performance
-- 🧪 Ideal for small to mid-scale deployments
+- 📊 Data preprocessing, cleaning, and exploratory analysis
+- 🧠 Trained multiple ML models: Logistic Regression, Decision Tree, Random Forest, SVM, KNN
+- 🏆 Random Forest selected for highest accuracy and AUC score
+- 📈 Evaluation metrics: Accuracy, Precision, Recall, F1-Score, AUC
+- 🧪 Built as part of a Data Science mini project for clinical insight and early detection
 
 ---
 
