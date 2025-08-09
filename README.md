@@ -6,12 +6,12 @@
 
 ## 👋 About Me
 
-Hi, I'm Adam—a systems-level thinker with a passion for solving edge-case software problems, refining code under constraints, and making technical systems more robust and user-friendly. I specialize in web architecture, cloud services, and logic-driven programming.
+Hi, I'm Adam—a systems-level thinker and builder focused on making web and cloud systems more reliable, accessible, and adaptable. I specialize in debugging complex web interactions, refining backend logic, and architecting cloud solutions that work under real-world constraints.
 
-- 🌐 **Web Troubleshooting**: Skilled in HTML, JSP, DevTools, and accessibility-focused refactoring.
-- ☁️ **Cloud Architecture**: Proficient in Azure resource groups, RBAC roles, and service orchestration.
-- 💻 **Programming**: Experienced in Java, SQL, and debugging logic-heavy code under strict I/O constraints.
-- 🧠 **Systems Thinking**: I correlate symptoms across subsystems and adapt solutions to real-world limitations.
+- 🌐 **Web Development**: HTML, JSP, React, DevTools, accessibility, and usability-focused refactoring.
+- ☁️ **Cloud Architecture**: Azure resource groups, RBAC roles, and service orchestration.
+- 💻 **Programming**: Java, SQL, logic puzzles, and debugging under strict I/O constraints.
+- 🧠 **Systems Thinking**: I correlate symptoms across layers and adapt solutions to edge cases and limitations.
 
 ---
 
@@ -19,9 +19,9 @@ Hi, I'm Adam—a systems-level thinker with a passion for solving edge-case soft
 
 | Domain              | Technologies & Expertise                                                                 |
 |---------------------|-------------------------------------------------------------------------------------------|
-| 🌐 Web Development   | HTML, JSP, DevTools, form validation, accessibility, server-client debugging              |
+| 🌐 Web Development   | HTML, JSP, React, DevTools, form validation, accessibility, client-server debugging       |
 | ☁️ Cloud Services    | Azure Resource Groups, RBAC, Cognitive Services, service orchestration                    |
-| 💻 Programming       | Java, SQL, logic puzzles, waveform array debugging                                        |
+| 💻 Programming       | Java, SQL, waveform array debugging, logic puzzles                                        |
 | 🧠 Diagnostics       | Cross-layer symptom tracking, pragmatic adaptation to quiz/exam constraints               |
 | 📦 Usability Focus   | Manual input workflows, non-standard user scenarios, system reliability engineering       |
 
@@ -41,13 +41,15 @@ Hi, I'm Adam—a systems-level thinker with a passion for solving edge-case soft
 
 ---
 
-## 🔍 Recent Work & Projects
+## 🚀 Featured Project
 
-- 🌐 Refactored HTML/JSP forms to support manual roll number entry and bypass barcode scanner dependency.
-- 🧠 Debugged Java waveform array logic to meet strict input/output constraints in quiz scenarios.
-- ☁️ Designed Azure architecture under Learnathon constraints, optimizing RBAC and service orchestration.
-- 🧪 Investigated ambiguous web errors (404s, form failures) and resolved client-server mismatches.
-- 📚 Studied Azure Cognitive Services and adapted answers to fit constrained quiz formats.
+### 🗂️ [Task Management Website](https://github.com/Adam4991/task-management-website)
+A full-stack web application built with React and structured for scalability. Includes:
+
+- 📦 Separate frontend and backend architecture
+- ⚙️ Scripts for build, test, and deployment
+- 🌐 Optimized for performance and usability
+- 🧪 Ideal for small to mid-scale deployments
 
 ---
 
